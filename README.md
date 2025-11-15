@@ -20,6 +20,18 @@ Table Creation: A table named retail_sales is created to store the sales data. T
   Category Count: Identify all unique product categories in the dataset.
   Null Value Check: Check for any null values in the dataset and delete records with missing data.
 
+<img width="1186" height="104" alt="image" src="https://github.com/user-attachments/assets/cc573114-6c2d-4536-bc65-7126abbbafde" />
+
+3. Data Analysis & Findings
+The following SQL queries were developed to answer specific business questions:
+3.a.   Write a SQL query to retrieve all columns for sales made on '2022-11-05:
+
+<img width="1203" height="295" alt="image" src="https://github.com/user-attachments/assets/2da6e1cd-dba1-4398-9c0f-dc9939bb4b8c" />
+
+3.b. Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022:
+<img width="1185" height="203" alt="image" src="https://github.com/user-attachments/assets/843cb839-57d4-4e3e-bdf5-6a8389e47535" />
+
+3.c. Write a SQL query to calculate the total sales (total_saleand total_order) for each category.:
 ![Uploading image.png…]()
 
 
