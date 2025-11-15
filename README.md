@@ -32,7 +32,52 @@ The following SQL queries were developed to answer specific business questions:
 <img width="1185" height="203" alt="image" src="https://github.com/user-attachments/assets/843cb839-57d4-4e3e-bdf5-6a8389e47535" />
 
 3.c. Write a SQL query to calculate the total sales (total_saleand total_order) for each category.:
+<img width="1201" height="142" alt="image" src="https://github.com/user-attachments/assets/b187874b-ac79-45b1-911f-3a14f83f831a" />
+
+3.d. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.:
+<img width="1199" height="83" alt="image" src="https://github.com/user-attachments/assets/0019499e-63dd-4559-be86-9d0debe9b680" />
+
+3.e. Write a SQL query to find all transactions where the total_sale is greater than 1000.:
+<img width="1198" height="325" alt="image" src="https://github.com/user-attachments/assets/0f2a539d-9c57-4e09-ae82-f9fb3061b07e" />
+
+3.f. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.:
+<img width="1201" height="486" alt="image" src="https://github.com/user-attachments/assets/06b9c28f-9c66-4692-9b39-7e8cf0d42440" />
+
+3.g. Write a SQL query to calculate the average sale for each month. Find out best selling month in each year:
+<img width="1207" height="234" alt="image" src="https://github.com/user-attachments/assets/b0d52c60-8cfd-4d19-859a-253eee72b7dc" />
+
+3.h. Write a SQL query to find the top 5 customers based on the highest total sales :
+<img width="1199" height="178" alt="image" src="https://github.com/user-attachments/assets/e4ef638d-1605-4734-86f5-9772470cad8f" />
+
+3.i. Write a SQL query to find the number of unique customers who purchased items from each category.:
+<img width="1197" height="524" alt="image" src="https://github.com/user-attachments/assets/254b84fa-6c26-465e-85f7-addadfe35d27" />
+
+3.j. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17):
+<img width="1298" height="11" alt="image" src="https://github.com/user-attachments/assets/2423abcd-1bf5-45ae-81b3-48dae528ab32" />
 ![Uploading image.png…]()
+
+Findings - 
+Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
+High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
+Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
+
+Reports - 
+Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
+Trend Analysis: Insights into sales trends across different months and shifts.
+Customer Insights: Reports on top customers and unique customer counts per category.
+
+Conclusion - 
+This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+
+
+
+
+
+
+
+
 
 
 
