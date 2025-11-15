@@ -28,3 +28,4 @@ Table Creation: A table named retail_sales is created to store the sales data. T
 
 
 
+
