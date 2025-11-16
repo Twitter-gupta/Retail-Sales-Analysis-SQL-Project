@@ -19,30 +19,39 @@ Table Creation: A table named retail_sales is created to store the sales data. T
   Customer Count: Find out how many unique customers are in the dataset.
   Category Count: Identify all unique product categories in the dataset.
   Null Value Check: Check for any null values in the dataset and delete records with missing data.
-
-<img width="1186" height="104" alt="image" src="https://github.com/user-attachments/assets/cc573114-6c2d-4536-bc65-7126abbbafde" />
+<img width="1205" height="474" alt="image" src="https://github.com/user-attachments/assets/ff517d3f-6b88-4b00-8299-69173d9912b3" />
 
 3. Data Analysis & Findings
 The following SQL queries were developed to answer specific business questions:
 3.1.   Write a SQL query to retrieve all columns for sales made on '2022-11-05:
+<img width="1201" height="118" alt="image" src="https://github.com/user-attachments/assets/96b6f18b-3c05-45b1-a3d6-d390bc3bb11e" />
 
 3.2. Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022:
+<img width="1197" height="303" alt="image" src="https://github.com/user-attachments/assets/d783d92a-c4f2-4d82-8d29-1e2b3bd83b66" />
 
 3.3. Write a SQL query to calculate the total sales (total_saleand total_order) for each category.:
+<img width="1193" height="199" alt="image" src="https://github.com/user-attachments/assets/9ada6d72-e068-43e0-a595-69cecda4b7e4" />
 
 3.4. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.:
+<img width="1206" height="150" alt="image" src="https://github.com/user-attachments/assets/34340048-d3b5-49c6-9c7b-7e1f47710542" />
 
 3.5. Write a SQL query to find all transactions where the total_sale is greater than 1000.:
+<img width="1198" height="94" alt="image" src="https://github.com/user-attachments/assets/47d45d7b-0aab-470b-9f74-97849be7e289" />
 
 3.6. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.:
+<img width="1201" height="325" alt="image" src="https://github.com/user-attachments/assets/4ab529bc-a8a5-44c3-affc-f617d7d6a90e" />
 
 3.7. Write a SQL query to calculate the average sale for each month. Find out best selling month in each year:
+<img width="1207" height="470" alt="image" src="https://github.com/user-attachments/assets/af5954b7-3b93-420a-b15e-1d2e7a542840" />
 
 3.8. Write a SQL query to find the top 5 customers based on the highest total sales :
+<img width="1209" height="226" alt="image" src="https://github.com/user-attachments/assets/ec0f8adb-eba9-4c97-88af-88bcfc0bfeb3" />
 
 3.9. Write a SQL query to find the number of unique customers who purchased items from each category.:
+<img width="1194" height="177" alt="image" src="https://github.com/user-attachments/assets/12f21fcd-eea5-47d3-bc62-58bcf7b05048" />
 
 3.10. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17):
+<img width="1204" height="509" alt="image" src="https://github.com/user-attachments/assets/059bdaa5-217b-4fdc-9ec9-debeda372a75" />
 
 Findings - 
 Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
